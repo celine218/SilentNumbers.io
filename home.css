@@ -1,0 +1,162 @@
+
+body {
+    background: linear-gradient(green, green, black);
+    font-family: "Monaco";
+    margin: 100px;
+    margin-top: 30px;
+} 
+  
+  
+div{
+    text-align:center;
+}
+
+p {
+    font-size:30px;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.container {
+    font-size:20px;
+    color: white;
+    margin-left: 100px;
+    margin-right: 0px;
+  
+}
+
+.circle {
+    border-radius: 2000px;
+    background-color: transparent;
+}
+
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 90%;
+    font-size: 40px;
+    border-radius: 40px;
+    text-align: center;
+    background-color: green; 
+    text-decoration: none; 
+}
+
+.ChButton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 100%;
+    font-size: 40px;
+    border-radius: 40px;
+    text-align: center;
+    background-color: mediumpurple; 
+    text-decoration: none; 
+}
+
+.ChButtonNo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 90%;
+    font-size: 40px;
+    border-radius: 40px;
+    text-align: center;
+    background-color: rebeccapurple; 
+    text-decoration: none;
+    opacity: 75%;
+}
+
+
+.button_div {
+    display: inline-block
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+} 
+
+h1 {
+    color:white;
+    font-size: 60px;
+    margin-top: 40px ;
+}
+
+h2 {
+    color: white;
+    font-size: 100px;
+}
+
+h3 {
+    color: white;
+    font-size: 50px;
+    margin-top: 400px;
+}
+
+h4 {
+    color: white;
+    font-size: 50px;
+}
+
+h5 {
+    color: white;
+    font-size: 30px;
+}
+
+.store_backing {
+    margin-right: 500px;
+    margin-left: 500px;
+    background: linear-gradient(green) 
+
+}
+
+
+.slow {
+    animation-delay: .25s;
+}
+.slow2{ 
+    animation-delay: 1s;
+}
+
+.logo {
+    margin:30px;
+} 
+
+.round-corners { 
+    border-radius: 50px;
+}
+
+.small_paragraph {
+    font-size: 30;
+}
+
+.store_button {
+    margin: 30px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 0%;
+    height: 20%;
+    font-size: 20px;
+} 
+
+    
+
+.white_text {
+    color:white;
+    font-size: 30px; 
+}
+
+.black_text 
+{
+    color:black;
+}
+
